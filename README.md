@@ -26,14 +26,6 @@ Soy un desarrollador multiplataforma en formación con experiencia en diversos l
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
 </p>
----
-
-### 📊 Mis Estadísticas de GitHub
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Kalrezor&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Estadísticas de Kalrezor" />
-  <br/>
-  <img src="https://github-readme-stats-terminal-theme.vercel.app/api/top-langs/?username=Kalrezor&layout=compact&theme=radical&hide_border=true" alt="Lenguajes de Kalrezor" />
-</p>
 
 ---
 
