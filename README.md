@@ -30,9 +30,9 @@ Soy un desarrollador multiplataforma en formación con experiencia en diversos l
 
 ### Mis Estadísticas de GitHub
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Estadísticas de Alejandro" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Kalrezor&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Estadísticas de Alejandro" />
   <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=radical&hide_border=true" alt="Lenguajes de Alejandro" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kalrezor&layout=compact&theme=radical&hide_border=true" alt="Lenguajes de Alejandro" />
 </p>
 
 ---
