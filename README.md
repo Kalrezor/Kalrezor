@@ -31,7 +31,7 @@ Soy un desarrollador multiplataforma en formación con experiencia en diversos l
 
 ### Proyectos Públicos
 - **[Proyecto-Integrador-1DAM](https://github.com/Kalrezor/Proyecto-Integrador-1DAM.git):** Desarrollado con **Java** y **SQLite**. Una aplicación enfocada en la gestión de tus finanzas de forma sencilla y rapida.
-- **[BioGuard-App](#):** Desarrollado con **Kotlin** y **Firebase**. Aplicación que implementa un sistema de registro con medidor de salud de contraseña y acceso por biometría.
+- **[BioGuard-App](https://github.com/Kalrezor/BioGuard-app.git):** Desarrollado con **Kotlin** y **Firebase**. Aplicación que implementa un sistema de registro con medidor de salud de contraseña y acceso por biometría.
 
 ---
 
