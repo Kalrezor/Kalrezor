@@ -32,6 +32,8 @@ Soy un desarrollador multiplataforma en formación con experiencia en diversos l
 ### Proyectos Públicos
 - **[Proyecto-Integrador-1DAM](https://github.com/Kalrezor/Proyecto-Integrador-1DAM.git):** Desarrollado con **Java** y **SQLite**. Una aplicación enfocada en la gestión de tus finanzas de forma sencilla y rapida.
 
+- **[Arcadia-Games-DAM-Integrador](https://github.com/Kalrezor/Arcadia-Games-DAM-Integrador.git):** Arcadia Games (Kotlin/Firebase) App Android de gestión integral de videojuegos. Integra funcionalidad y vistas para: Admin: inventario, estadísticas, gestión de admins, historial e incidencias y Usuario: compra/alquiler, catálogo con buscador y reporte de incidencias.
+
 ---
 
 ### Contacto
