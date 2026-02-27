@@ -30,7 +30,7 @@ Soy un desarrollador multiplataforma en formación con experiencia en diversos l
 ---
 
 ### Proyectos Públicos
-- **[Proyecto-Integrador-1DAM](https://github.com/Kalrezor/Proyecto-Integrador-1DAM.git):** Desarrollado con **Java** y **SQLite**. Una aplicación enfocada en la gestión de tus finanzas de forma sencilla y rapida.
+- **[Flow-Track-DAM-Integrador](https://github.com/Kalrezor/Proyecto-Integrador-1DAM.git):** Flow Track (Java/SQLite) App para la gestión financiera integral. Permite registrar ingresos, gastos por categorías, transferencias y deudas. Incluye un módulo de objetivos para metas a largo plazo y estadísticas detalladas. Ofrece una interfaz funcional con persistencia de datos para un control económico eficiente.
 
 - **[Arcadia-Games-DAM-Integrador](https://github.com/Kalrezor/Arcadia-Games-DAM-Integrador.git):** Arcadia Games (Kotlin/Firebase) App Android de gestión integral de videojuegos. Integra funcionalidad y vistas para: Admin: inventario, estadísticas, gestión de admins, historial e incidencias y Usuario: compra/alquiler, catálogo con buscador y reporte de incidencias.
 
