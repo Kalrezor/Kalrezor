@@ -6,9 +6,9 @@ Soy un desarrollador multiplataforma en formación con experiencia en diversos l
 
 ---
 
-### ⚡ Tecnologías y Herramientas
+### Tecnologías y Herramientas
 
-#### 📱 Desarrollo y Herramientas
+#### Desarrollo y Herramientas
 <p align="left">
   <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" />
   <img src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white" />
@@ -16,7 +16,7 @@ Soy un desarrollador multiplataforma en formación con experiencia en diversos l
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </p>
 
-#### 💻 Lenguajes y Web
+#### Lenguajes y Web
 <p align="left">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
@@ -34,10 +34,6 @@ Soy un desarrollador multiplataforma en formación con experiencia en diversos l
 - **[Flow-Track-DAM-Integrador](https://github.com/Kalrezor/Proyecto-Integrador-1DAM):** Flow Track (Java/SQLite) App para la gestión financiera integral. Permite registrar ingresos, gastos por categorías, transferencias y deudas. Incluye un módulo de objetivos para metas a largo plazo y estadísticas detalladas. Ofrece una interfaz funcional con persistencia de datos para un control económico eficiente.
 
 - **[Arcadia-Games-DAM-Integrador](https://github.com/Kalrezor/Arcadia-Games-DAM-Integrador):** Arcadia Games (Kotlin/Firebase) App Android de gestión integral de videojuegos. Integra funcionalidad y vistas para: Admin: inventario, estadísticas, gestión de admins, historial e incidencias y Usuario: compra/alquiler, catálogo con buscador y reporte de incidencias.
-
-### Mis formaciones actuales
-* [**Fundamentos React Workshop**](https://github.com/Kalrezor/Fundamentos-React-Workshop) - Curso práctico de React.js en OpenWebinars (Componentes, Hooks y APIs).
-
 
 ---
 
