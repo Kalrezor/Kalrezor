@@ -1,4 +1,4 @@
-# ¡Hola! Soy Alejandro Caloto
+# Hola soy Alejandro Caloto
 
 ### Estudiante de DAM | Interesado en la Ciberseguridad
 
@@ -27,13 +27,6 @@ Soy un desarrollador multiplataforma en formación con experiencia en diversos l
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
 </p>
-
----
-
-### Proyectos Públicos
-- **[Flow-Track-DAM-Integrador](https://github.com/Kalrezor/Proyecto-Integrador-1DAM):** Flow Track (Java/SQLite) App para la gestión financiera integral. Permite registrar ingresos, gastos por categorías, transferencias y deudas. Incluye un módulo de objetivos para metas a largo plazo y estadísticas detalladas. Ofrece una interfaz funcional con persistencia de datos para un control económico eficiente.
-
-- **[Arcadia-Games-DAM-Integrador](https://github.com/Kalrezor/Arcadia-Games-DAM-Integrador):** Arcadia Games (Kotlin/Firebase) App Android de gestión integral de videojuegos. Integra funcionalidad y vistas para: Admin: inventario, estadísticas, gestión de admins, historial e incidencias y Usuario: compra/alquiler, catálogo con buscador y reporte de incidencias.
 
 ---
 
